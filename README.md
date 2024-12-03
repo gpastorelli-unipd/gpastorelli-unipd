@@ -1,4 +1,8 @@
-## Hi there 👋
+### Giada Pastorelli (she/her) 
+
+Postdoctoral researcher at the Department of Physics and Astronomy, University of Padova. 
+
+Main interests: stellar structure and evolution, stellar populations
 
 <!--
 **gpastorelli-unipd/gpastorelli-unipd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
